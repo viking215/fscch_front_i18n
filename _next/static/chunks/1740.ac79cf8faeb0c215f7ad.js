@@ -1,1 +1,0 @@
-(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[1740],{51740:function(e,n,c){"use strict";c.r(n),c.d(n,{default:function(){return r}});var u=c(85893),t=c(59359);function r(e){return(0,u.jsx)("div",{className:"device-layout-component",children:e.children(t)})}}}]);
