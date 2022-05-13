@@ -1,0 +1,55 @@
+{
+	"background_color": "#D49967",
+	"categories": ["travel", "social"],
+	"description": "Фонд поддержки христианской культуры и наследия",
+	"dir": "auto",
+	"display": "standalone",
+	"icons": [
+		{
+			"src": "/icons/favicon_16.svg",
+			"sizes": "16x16"
+		},
+		{
+			"src": "/icons/favicon_32.svg",
+			"sizes": "32x32"
+		},
+		{
+			"src": "/icons/favicon_72.svg",
+			"sizes": "72x72"
+		},
+		{
+			"src": "/icons/favicon_96.svg",
+			"sizes": "96x96"
+		},
+		{
+			"src": "/icons/favicon_128.svg",
+			"sizes": "128x128"
+		},
+		{
+			"src": "/icons/favicon_144.svg",
+			"sizes": "144x144"
+		},
+		{
+			"src": "/icons/favicon_152.svg",
+			"sizes": "152x152"
+		},
+		{
+			"src": "/icons/favicon_192.svg",
+			"sizes": "192x192"
+		},
+		{
+			"src": "/icons/favicon_384.svg",
+			"sizes": "384x384"
+		},
+		{
+			"src": "/icons/favicon_512.svg",
+			"sizes": "512x512"
+		}
+	],
+	"lang": "ru",
+	"name": "Фонд поддержки христианской культуры и наследия",
+	"orientation": "portrait-primary",
+	"short_name": "ФПХКН",
+	"start_url": "/",
+	"theme_color": "#20274A"
+}

@@ -1,0 +1,9 @@
+{
+	"not-found-content": "No data",
+	"select-category": "Choose the category",
+	"select-country": "Choose the country",
+	"select-date-range": "Date range",
+	"select-date-range-begin": "Start date",
+	"select-date-range-end": " Final date",
+	"select-sort": "Sort"
+}
