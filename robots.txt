@@ -1,9 +1,10 @@
-# *
 User-agent: *
-Disallow: /
+Allow: /
 
 # Host
-Host: undefined
+Host: https://fscch.info/
 
 # Sitemaps
-Sitemap: undefined/sitemap.xml
+Sitemap: https://fscch.info/sitemap.xml
+
+Clean-param: country /*/news/
