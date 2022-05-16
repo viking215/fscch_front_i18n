@@ -1,0 +1,9 @@
+{
+    "not-found-content": "Нет данных",
+	"select-category": "Выбор категории",
+	"select-country": "Выбор страны",
+	"select-date-range": "Диапазон дат",
+	"select-date-range-begin": "Начальная дата",
+	"select-date-range-end": " Конечная дата",
+	"select-sort": "Сортировка"
+}
