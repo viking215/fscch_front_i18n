@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://fscch.ru
+Host: https://fscch.info
 
 # Sitemaps
-Sitemap: https://fscch.ru/sitemap.xml
+Sitemap: https://fscch.info/sitemap.xml
