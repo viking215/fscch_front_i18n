@@ -1,1 +1,0 @@
-_N_E=(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[9852],{88006:function(n,_,u){"use strict";u.r(_),u.d(_,{__N_SSG:function(){return s}});var e=u(71592),s=!0;_.default=e.Z},21277:function(n,_,u){(window.__NEXT_P=window.__NEXT_P||[]).push(["/sr/news/[slug]",function(){return u(88006)}])}},0,[[21277,2272,9774,3662,4885,2634,9351,1791,4526,3106,6337,1592]]]);
